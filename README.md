@@ -1,4 +1,4 @@
-# gestionar-fuentes-sistema
+# Gestión de fuente del sistema System Sans-Serif
 Plugin de WordPress que agrega una interfaz de administración con dos botones para activar y desactivar la fuente "System Sans-serif" modificando directamente el archivo theme.json del tema activo.
 # Activar el plugin
 Ve al panel de administración de WordPress.
